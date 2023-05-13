@@ -9,10 +9,6 @@ Enables users to add important details about each item, such as purchase date, p
 Provides a platform for keeping track of home items, simplifying home insurance claims, and easily finding items when needed
 Offers a convenient and secure way to manage home inventory data
 
-Getting Started
-
-To get started with Home Inventory Tracker, simply sign up on the website and create an account. Once you have created an account, you can start adding items to your home inventory and keep track of your belongings.
-
 Development
 Home Inventory Tracker was developed using the MERN (MongoDB, Express, React, Node.js) stack, a popular technology stack for building web applications. The application was developed by a team of experienced developers, and is continually being updated with new features and improvements.
 
